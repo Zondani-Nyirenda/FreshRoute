@@ -1,0 +1,18 @@
+export const ZONES = [
+  'Chelston',
+  'Ibex Hill',
+  'Kabulonga',
+  'Kalingalinga',
+  'Kamwala',
+  'Lilayi',
+  'Longacres',
+  'Makeni',
+  'Matero',
+  'Meanwood',
+  'Munali',
+  'Roma',
+  'Rhodes Park',
+  'Thornpark',
+  'Woodlands',
+  'Other',
+];
